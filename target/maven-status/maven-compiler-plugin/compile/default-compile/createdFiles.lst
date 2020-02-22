@@ -1,0 +1,9 @@
+com/casestudy/foodballLegue/FoodballLegueApplication.class
+com/casestudy/foodballLegue/standings/Standings.class
+com/casestudy/foodballLegue/config/WebConfig.class
+com/casestudy/foodballLegue/standings/StandingsSer.class
+com/casestudy/foodballLegue/filter/AuthToken.class
+com/casestudy/foodballLegue/standings/standingsSerImpl.class
+com/casestudy/foodballLegue/standings/StandingRepo.class
+com/casestudy/foodballLegue/filter/AuthFilter.class
+com/casestudy/foodballLegue/standings/StandingsCtrl.class
